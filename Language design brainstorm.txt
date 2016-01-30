@@ -15,3 +15,14 @@ looping in the the form of for and while loops
 variable scope local-only, values moved between functions in args and return values
 
 implicit type-conversion
+
+comments start with // and end with a \n
+
+//Test function
+function greet(person){
+    print("Hello " + person);
+}
+
+greet("Jessie");
+//end test function
+
