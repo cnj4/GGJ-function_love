@@ -1,0 +1,17 @@
+Language should be based primarily on javascript
+
+functions defined using function <function name>(<args>){}
+
+primitive data types: int, bool, float, string.
+
+statements delimited by ;
+
+whitespace inconsequential except token separation
+
+conditionals in the form of if(condition){result}
+
+looping in the the form of for and while loops
+
+variable scope local-only, values moved between functions in args and return values
+
+implicit type-conversion
